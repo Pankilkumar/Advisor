@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\advisor_Backend.props" />
+</Project>
